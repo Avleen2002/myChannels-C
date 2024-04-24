@@ -9,4 +9,4 @@ myChannels is a multi-threaded program designed to process 16-bit integer input 
 - Support for checkpointing and lock mechanisms to ensure synchronized progress.
 
 ## Acknowledgements
-Special thanks to the creators of the Unix/Linux "ls" command and to professor Hazra Imran, for inspiration and guidance.
+Special thanks to professor Hazra Imran, for inspiration and guidance.
